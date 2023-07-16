@@ -1,0 +1,47 @@
+About
+The Linux operating system offers a multitude of commands, which can be overwhelming for beginners.  This cheat sheet helps you get familiar with over 30 basic Linux command-line executables frequently used by developers. You’ll find easy-to-learn shortcuts and code examples to help you find your way around the Linux command line.
+
+With the Linux Commands Cheat Sheet, you’ll learn basic commands for:
+
+Application and process management:
+which
+yum
+Console and output management, working with data sent to stdout or displayed in a terminal window:
+cat
+clear
+echo
+top
+Creating and exporting environment variables:
+env
+export
+printenv
+source
+Working with files and directories:
+ cd
+cp
+find
+grep
+ls
+mkdir
+more
+mv
+pwd
+rm
+tar
+Accessing command-line help documentation:
+man
+Working with networks on and from a Linux computer:
+curl
+ip
+netstat
+ssh
+wget
+Process management:
+&&
+kill
+ps
+System control:
+poweroff
+restart
+User management:
+whoami
